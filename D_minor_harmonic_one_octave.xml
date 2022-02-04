@@ -8,7 +8,7 @@
     <creator type="composer">Composer</creator>
     <encoding>
       <software>MuseScore 3.5.2</software>
-      <encoding-date>2022-01-21</encoding-date>
+      <encoding-date>2022-02-04</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -79,12 +79,13 @@
         <clef>
           <sign>G</sign>
           <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
           </clef>
         </attributes>
       <note default-x="58.17" default-y="-45.00">
         <pitch>
           <step>D</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -94,7 +95,7 @@
       <note default-x="116.47" default-y="-40.00">
         <pitch>
           <step>E</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -104,7 +105,7 @@
       <note default-x="174.76" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -114,7 +115,7 @@
       <note default-x="233.05" default-y="-30.00">
         <pitch>
           <step>G</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -129,7 +130,7 @@
       <note default-x="10.00" default-y="-25.00">
         <pitch>
           <step>A</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -140,7 +141,7 @@
         <pitch>
           <step>B</step>
           <alter>-1</alter>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -152,7 +153,7 @@
         <pitch>
           <step>C</step>
           <alter>1</alter>
-          <octave>5</octave>
+          <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -163,7 +164,7 @@
       <note default-x="210.69" default-y="-10.00">
         <pitch>
           <step>D</step>
-          <octave>5</octave>
+          <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -179,7 +180,7 @@
         <pitch>
           <step>C</step>
           <alter>1</alter>
-          <octave>5</octave>
+          <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -191,7 +192,7 @@
         <pitch>
           <step>B</step>
           <alter>-1</alter>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -202,7 +203,7 @@
       <note default-x="142.96" default-y="-25.00">
         <pitch>
           <step>A</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -212,7 +213,7 @@
       <note default-x="205.23" default-y="-30.00">
         <pitch>
           <step>G</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -227,7 +228,7 @@
       <note default-x="10.00" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -237,7 +238,7 @@
       <note default-x="69.91" default-y="-40.00">
         <pitch>
           <step>E</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -247,7 +248,7 @@
       <note default-x="129.45" default-y="-45.00">
         <pitch>
           <step>D</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>2</duration>
         <voice>1</voice>
